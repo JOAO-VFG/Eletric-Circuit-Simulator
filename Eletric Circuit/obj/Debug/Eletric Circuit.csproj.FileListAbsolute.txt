@@ -1,0 +1,10 @@
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\bin\Debug\Eletric Circuit.exe.config
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\bin\Debug\Eletric Circuit.exe
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\bin\Debug\Eletric Circuit.pdb
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric Circuit.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric_Circuit.Form1.resources
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric_Circuit.Properties.Resources.resources
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric Circuit.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric Circuit.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric Circuit.exe
+C:\Users\Gabri\source\repos\Eletric Circuit\Eletric Circuit\obj\Debug\Eletric Circuit.pdb
