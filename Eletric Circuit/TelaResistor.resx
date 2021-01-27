@@ -117,32 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="resistor-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\resistor-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="resistor-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\resistor-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="settings-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\settings-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="settings-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\settings-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="battery-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\battery-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="backCircuito" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backCircuito.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="electronic-circuit-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\electronic-circuit-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="electronic-circuit-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\electronic-circuit-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="battery-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\battery-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

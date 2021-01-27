@@ -83,6 +83,16 @@ namespace Eletric_Circuit.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap battery_on {
+            get {
+                object obj = ResourceManager.GetObject("battery-on", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap electronic_circuit_off {
             get {
                 object obj = ResourceManager.GetObject("electronic-circuit-off", resourceCulture);
