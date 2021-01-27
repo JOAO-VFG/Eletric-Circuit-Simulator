@@ -116,5 +116,11 @@
   <ItemGroup>
     <None Include="Resources\battery-on.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resistor-example.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change-exemplo.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -93,6 +93,16 @@ namespace Eletric_Circuit.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap change_exemplo {
+            get {
+                object obj = ResourceManager.GetObject("change-exemplo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap electronic_circuit_off {
             get {
                 object obj = ResourceManager.GetObject("electronic-circuit-off", resourceCulture);
@@ -106,6 +116,16 @@ namespace Eletric_Circuit.Properties {
         internal static System.Drawing.Bitmap electronic_circuit_on {
             get {
                 object obj = ResourceManager.GetObject("electronic-circuit-on", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap resistor_example {
+            get {
+                object obj = ResourceManager.GetObject("resistor-example", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

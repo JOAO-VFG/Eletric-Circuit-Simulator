@@ -121,6 +121,9 @@
   <data name="resistor-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\resistor-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="battery-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battery-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="resistor-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\resistor-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,11 +133,14 @@
   <data name="settings-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\settings-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="battery-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\battery-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="resistor-example" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resistor-example.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backCircuito" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backCircuito.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battery-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battery-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="electronic-circuit-off" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\electronic-circuit-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,7 +148,7 @@
   <data name="electronic-circuit-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\electronic-circuit-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="battery-on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\battery-on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="change-exemplo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\change-exemplo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

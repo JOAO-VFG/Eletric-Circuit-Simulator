@@ -190,6 +190,8 @@ namespace Eletric_Circuit
             this.Controls.Add(this.telaResistor);
             this.Controls.Add(this.panCircuito);
             this.Controls.Add(this.panInformacao);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "telaInicial";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Circuito Elétrico";
